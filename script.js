@@ -1,4 +1,6 @@
-var audio = document.createElement('audio');
-audio.setAttribute('src', 'sound.mp3'); 
-audio.loop=true;
-audio.play();
+const audio = new Audio('sound.mp3');
+audio.loop = true;
+
+document.addEventListener('click', () => {
+    audio.play();
+}, { once: true });
