@@ -1,3 +1,4 @@
+<img width="1907" height="897" alt="Screenshot 2026-06-28 094533" src="https://github.com/user-attachments/assets/2bc23933-77f2-461d-9fb9-a22b4a41fde9" />
 # 🚗 Moving Car Animation
 
 A simple yet visually engaging **Moving Car Animation** built using **HTML**, **CSS**, and **JavaScript**. This project simulates a moving car by animating the road, rotating the wheels, adding realistic shaking effects, and playing a looping engine sound to create an immersive driving experience.
