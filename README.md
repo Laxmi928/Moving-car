@@ -56,7 +56,7 @@ Moving-Car-Animation/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/moving-car-animation.git
+git clone https://github.com/Laxmi928/Moving-car.git
 ```
 
 ### 2. Navigate to the project folder
@@ -101,7 +101,7 @@ audio.play();
 
 ## 📸 Preview
 
-Add a screenshot or GIF of your project here.
+
 
 ```text
 preview.gif
